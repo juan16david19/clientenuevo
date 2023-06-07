@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/musicajdea.appspot.com/o/banner.jpg?alt=media&token=57798e0a-3647-46f4-a3d2-a15fec51603f);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
